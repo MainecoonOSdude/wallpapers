@@ -1,2 +1,2 @@
-# mainecoonOS
-official repo of Mainecoon OS
+# wallpapers
+link for my selfmade wallpapers
